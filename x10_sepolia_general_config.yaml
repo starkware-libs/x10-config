@@ -1,0 +1,291 @@
+collateral_asset_info:
+  asset_id: '0x35596841893e0d17079c27b2d72db1694f26a1932a7429144b439ba0807d29c'
+  resolution: '0xf4240'
+data_availability_mode: 1
+fee_position_info:
+  position_id: '1'
+  public_key: '0x4e8f8d6d2dde51fdfc1717582318a437f1d81de4657a93d74c33c9793d12be3'
+is_risk_by_balance_only: false
+max_funding_rate: '5965'
+orders_tree_height: 64
+positions_tree_height: 64
+synthetic_assets_info:
+  '0x4254432d3138000000000000000000':
+    oracle_price_quorum: '0x1'
+    oracle_price_signed_asset_ids:
+    - '0x4254435553440000000000000000000053746f726b'
+    - '0x4254435553440000000000000000000053744b6169'
+    - '0x425443555344000000000000000000004465787472'
+    - '0x425443555344000000000000000000005374437277'
+    oracle_price_signers:
+    - '0xcc85afe4ca87f9628370c432c447e569a01dc96d160015c8039959db8521c4'
+    - '0x63f0f8507cc674ff668985a1ea854d3b73835a8181bfbb4564ae422bf68a2c0'
+    - '0x2af704df5467285c5d1bd7c08ee33c49057fb2a05ecdc4f949293190f28ce7e'
+    - '0x41dbe627aeab66504b837b3abd88ae2f58ba6d98ee7bbd7f226c4684d9e6225'
+    resolution: '0x5f5e100'
+    risk_factor:
+      segments:
+      - risk: '42949673'
+        upper_bound: 250000
+      - risk: '53687091'
+        upper_bound: 550000
+      - risk: '64424509'
+        upper_bound: 850000
+      - risk: '75161928'
+        upper_bound: 1150000
+      - risk: '85899346'
+        upper_bound: 1450000
+      - risk: '96636764'
+        upper_bound: 1750000
+      - risk: '107374182'
+        upper_bound: 2050000
+      - risk: '118111601'
+        upper_bound: 2350000
+      - risk: '128849019'
+        upper_bound: 2650000
+      - risk: '139586437'
+        upper_bound: 2950000
+      - risk: '150323855'
+        upper_bound: 3250000
+      - risk: '161061274'
+        upper_bound: 3550000
+      - risk: '171798692'
+        upper_bound: 3850000
+      - risk: '182536110'
+        upper_bound: 4150000
+      - risk: '193273528'
+        upper_bound: 4450000
+      - risk: '204010947'
+        upper_bound: 4750000
+      - risk: '214748365'
+        upper_bound: 5050000
+      - risk: '225485783'
+        upper_bound: 5350000
+      - risk: '236223201'
+        upper_bound: 5650000
+      - risk: '246960620'
+        upper_bound: 5950000
+      - risk: '257698038'
+        upper_bound: 6250000
+      - risk: '268435456'
+        upper_bound: 6550000
+      - risk: '279172874'
+        upper_bound: 6850000
+      - risk: '289910292'
+        upper_bound: 7150000
+      - risk: '300647711'
+        upper_bound: 7450000
+      - risk: '311385129'
+        upper_bound: 7750000
+      - risk: '322122547'
+        upper_bound: 8050000
+      - risk: '332859965'
+        upper_bound: 8350000
+      - risk: '343597384'
+        upper_bound: 8650000
+      - risk: '354334802'
+        upper_bound: 8950000
+      - risk: '365072220'
+        upper_bound: 9250000
+      - risk: '375809638'
+        upper_bound: 9550000
+      - risk: '386547057'
+        upper_bound: 9850000
+      - risk: '397284475'
+        upper_bound: 10150000
+      - risk: '408021893'
+        upper_bound: 10450000
+      - risk: '418759311'
+        upper_bound: 10750000
+      - risk: '429496730'
+        upper_bound: 11050000
+      - risk: '440234148'
+        upper_bound: 11350000
+      - risk: '450971566'
+        upper_bound: 11650000
+      - risk: '461708984'
+        upper_bound: 11950000
+      - risk: '472446403'
+        upper_bound: 12250000
+      - risk: '483183821'
+        upper_bound: 12550000
+      - risk: '493921239'
+        upper_bound: 12850000
+      - risk: '504658657'
+        upper_bound: 13150000
+      - risk: '515396076'
+        upper_bound: 13450000
+      - risk: '526133494'
+        upper_bound: 13750000
+      - risk: '536870912'
+        upper_bound: 14050000
+      - risk: '547608330'
+        upper_bound: 14350000
+      - risk: '558345748'
+        upper_bound: 14650000
+      - risk: '569083167'
+        upper_bound: 14950000
+      - risk: '579820585'
+        upper_bound: 15250000
+      - risk: '590558003'
+        upper_bound: 15550000
+      - risk: '601295421'
+        upper_bound: 15850000
+      - risk: '612032840'
+        upper_bound: 16150000
+      - risk: '622770258'
+        upper_bound: 16450000
+      - risk: '633507676'
+        upper_bound: 16750000
+      - risk: '644245094'
+        upper_bound: 17050000
+      - risk: '654982513'
+        upper_bound: 17350000
+      - risk: '665719931'
+        upper_bound: 17650000
+      - risk: '676457349'
+        upper_bound: 17950000
+      - risk: '687194767'
+        upper_bound: 18250000
+      - risk: '697932186'
+        upper_bound: 18550000
+      - risk: '708669604'
+        upper_bound: 18850000
+      - risk: '719407022'
+        upper_bound: 19150000
+      - risk: '730144440'
+        upper_bound: 19450000
+      - risk: '740881859'
+        upper_bound: 19750000
+      - risk: '751619277'
+        upper_bound: 20050000
+      - risk: '762356695'
+        upper_bound: 20350000
+      - risk: '773094113'
+        upper_bound: 20650000
+      - risk: '783831532'
+        upper_bound: 20950000
+      - risk: '794568950'
+        upper_bound: 21250000
+      - risk: '805306368'
+        upper_bound: 21550000
+      - risk: '816043786'
+        upper_bound: 21850000
+      - risk: '826781204'
+        upper_bound: 22150000
+      - risk: '837518623'
+        upper_bound: 22450000
+      - risk: '848256041'
+        upper_bound: 22750000
+      - risk: '858993459'
+        upper_bound: 23050000
+      - risk: '869730877'
+        upper_bound: 23350000
+      - risk: '880468296'
+        upper_bound: 23650000
+      - risk: '891205714'
+        upper_bound: 23950000
+      - risk: '901943132'
+        upper_bound: 24250000
+      - risk: '912680550'
+        upper_bound: 24550000
+      - risk: '923417969'
+        upper_bound: 24850000
+      - risk: '934155387'
+        upper_bound: 25150000
+      - risk: '944892805'
+        upper_bound: 25450000
+      - risk: '955630223'
+        upper_bound: 25750000
+      - risk: '966367642'
+        upper_bound: 26050000
+      - risk: '977105060'
+        upper_bound: 26350000
+      - risk: '987842478'
+        upper_bound: 26650000
+      - risk: '998579896'
+        upper_bound: 26950000
+      - risk: '1009317315'
+        upper_bound: 27250000
+      - risk: '1020054733'
+        upper_bound: 27550000
+      - risk: '1030792151'
+        upper_bound: 27850000
+      - risk: '1041529569'
+        upper_bound: 28150000
+      - risk: '1052266988'
+        upper_bound: 28450000
+      - risk: '1063004406'
+        upper_bound: 28750000
+      - risk: '1073741824'
+        upper_bound: 29050000
+      - risk: '2147483648'
+        upper_bound: 340282366920938463463374607431768211455
+  '0x534f4c2d3300000000000000000000':
+    oracle_price_quorum: '0x1'
+    oracle_price_signed_asset_ids:
+    - '0x534f4c555344000000000000000000007831300000'
+    oracle_price_signers:
+    - '0x4ec31b2f68d5350b3c7aace2f6e059b61d072132a7f5795e5b9a73774b7f755'
+    resolution: '0x3e8'
+    risk_factor:
+      segments:
+      - risk: '107374182'
+        upper_bound: 100000000000
+      - risk: '150323855'
+        upper_bound: 250000000000
+      - risk: '193273528'
+        upper_bound: 400000000000
+      - risk: '236223201'
+        upper_bound: 550000000000
+      - risk: '279172874'
+        upper_bound: 700000000000
+      - risk: '2147483648'
+        upper_bound: 340282366920938463463374607431768211455
+  '0x4144412d3300000000000000000000':
+    oracle_price_quorum: '0x1'
+    oracle_price_signed_asset_ids:
+    - '0x414441555344000000000000000000007831300000'
+    oracle_price_signers:
+    - '0x4ec31b2f68d5350b3c7aace2f6e059b61d072132a7f5795e5b9a73774b7f755'
+    resolution: '0x3e8'
+    risk_factor:
+      segments:
+      - risk: '143165577'
+        upper_bound: 50000000000
+      - risk: '196852668'
+        upper_bound: 150000000000
+      - risk: '250539759'
+        upper_bound: 250000000000
+      - risk: '304226850'
+        upper_bound: 350000000000
+      - risk: '2147483648'
+        upper_bound: 340282366920938463463374607431768211455
+  '0x4554482d3500000000000000000000':
+    oracle_price_quorum: '0x1'
+    oracle_price_signed_asset_ids:
+    - '0x455448555344000000000000000000007831300000'
+    oracle_price_signers:
+    - '0x4ec31b2f68d5350b3c7aace2f6e059b61d072132a7f5795e5b9a73774b7f755'
+    resolution: '0x186a0'
+    risk_factor:
+      segments:
+      - risk: '85899346'
+        upper_bound: 150000000000
+      - risk: '118111601'
+        upper_bound: 350000000000
+      - risk: '150323855'
+        upper_bound: 550000000000
+      - risk: '182536110'
+        upper_bound: 750000000000
+      - risk: '214748365'
+        upper_bound: 950000000000
+      - risk: '246960620'
+        upper_bound: 1150000000000
+      - risk: '279172874'
+        upper_bound: 1350000000000
+      - risk: '2147483648'
+        upper_bound: 340282366920938463463374607431768211455
+timestamp_validation_config:
+  funding_validity_period: 604800
+  price_validity_period: 31536000
