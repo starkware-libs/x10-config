@@ -6,7 +6,7 @@ fee_position_info:
   position_id: '1'
   public_key: '0x4ec31b2f68d5350b3c7aace2f6e059b61d072132a7f5795e5b9a73774b7f755'
 is_risk_by_balance_only: false
-max_funding_rate: '<TBC>'
+max_funding_rate: '35791'
 orders_tree_height: 64
 positions_tree_height: 64
 synthetic_assets_info:
