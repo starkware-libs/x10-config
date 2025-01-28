@@ -5,7 +5,7 @@ data_availability_mode: 1
 fee_position_info:
   position_id: '1'
   public_key: '0x4ec31b2f68d5350b3c7aace2f6e059b61d072132a7f5795e5b9a73774b7f755'
-frozen_assets: []
+frozen_assets: ['0x5852502d3100000000000000000000]
 is_risk_by_balance_only: false
 max_funding_rate: '44739'
 orders_tree_height: 64
@@ -1469,6 +1469,38 @@ synthetic_assets_info:
         upper_bound: 16965120819200000000000
       - risk: '1116691497'
         upper_bound: 18038862643200000000000
+      - risk: '2147483648'
+        upper_bound: 340282366920938463463374607431768211455
+  '0x455552555344':
+    oracle_price_quorum: '0x1'
+    oracle_price_signed_asset_ids:
+    - '0x45555255534400000000000000000000505241474d41'
+    - '0x45555255534400000000000000000000464c4f574445534b'
+    oracle_price_signers:
+    - '0x4ec31b2f68d5350b3c7aace2f6e059b61d072132a7f5795e5b9a73774b7f755'
+    resolution: '0xa'
+    risk_factor:
+      segments:
+      - risk: '42949673'
+        upper_bound: 1717986918400000000000
+      - risk: '85899346'
+        upper_bound: 3435973836800000000000
+      - risk: '128849019'
+        upper_bound: 5153960755200000000000
+      - risk: '171798692'
+        upper_bound: 6871947673600000000000
+      - risk: '214748365'
+        upper_bound: 8589934592000000000000
+      - risk: '257698038'
+        upper_bound: 10307921510400000000000
+      - risk: '300647711'
+        upper_bound: 12025908428800000000000
+      - risk: '343597384'
+        upper_bound: 13743895347200000000000
+      - risk: '386547057'
+        upper_bound: 15461882265600000000000
+      - risk: '429496730'
+        upper_bound: 17179869184000000000000
       - risk: '2147483648'
         upper_bound: 340282366920938463463374607431768211455
 timestamp_validation_config:
