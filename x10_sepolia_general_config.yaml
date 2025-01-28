@@ -16,7 +16,8 @@ synthetic_assets_info:
     oracle_price_signed_asset_ids:
     - '0x414156455553440000000000000000007831300000'
     oracle_price_signers:
-    - '0x4ec31b2f68d5350b3c7aace2f6e059b61d072132a7f5795e5b9a73774b7f755'
+    - '0x009d84fae6d6a8eff16f7729e755a9084896352cae5d7f0518f43da98ff4d903'
+    - '0x624EBFB99865079BD58CFCFB925B6F5CE940D6F6E41E118B8A72B7163FB435C'
     resolution: '0x3e8'
     risk_factor:
       segments:
