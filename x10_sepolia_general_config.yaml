@@ -5,7 +5,7 @@ data_availability_mode: 1
 fee_position_info:
   position_id: '1'
   public_key: '0x4ec31b2f68d5350b3c7aace2f6e059b61d072132a7f5795e5b9a73774b7f755'
-frozen_assets: []
+frozen_assets: ['0x5852502d3100000000000000000000']
 is_risk_by_balance_only: false
 max_funding_rate: '44739'
 orders_tree_height: 64
