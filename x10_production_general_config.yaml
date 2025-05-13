@@ -2519,6 +2519,51 @@ synthetic_assets_info:
         upper_bound: 17179869184000000000000
       - risk: '2147483648'
         upper_bound: 340282366920938463463374607431768211455
+  '0x54414f2d3300000000000000000000':   #TAO
+    oracle_price_quorum: '0x2'
+    oracle_price_signed_asset_ids:
+    - '0x54414f5553444d41524b00000000000053746f726b'
+    - '0x54414f5553444d41524b0000000000006465787472'
+    - '0x54414f5553444d41524b0000000000005374437277'
+    - '0x54414f5553444d41524b00000000000053746b6169'
+    oracle_price_signers:
+    - '0xcc85afe4ca87f9628370c432c447e569a01dc96d160015c8039959db8521c4'
+    - '0x6ee80350406f9e753797c3f0e1303a63ea2ae1f1adb86340e52722f41b31b64'
+    - '0x41dbe627aeab66504b837b3abd88ae2f58ba6d98ee7bbd7f226c4684d9e6225'
+    - '0x1f191d23b8825dcc3dba839b6a7155ea07ad0b42af76394097786aca0d9975c'
+    resolution: '0x3e8'
+    risk_factor:
+      segments:
+      - risk: '137438954'
+        upper_bound: 214748364800000000000
+      - risk: '214748365'
+        upper_bound: 536870912000000000000
+      - risk: '287762809'
+        upper_bound: 858993459200000000000
+      - risk: '365072221'
+        upper_bound: 1181116006400000000000
+      - risk: '438086665'
+        upper_bound: 1503238553600000000000
+      - risk: '515396076'
+        upper_bound: 1825361100800000000000
+      - risk: '588410520'
+        upper_bound: 2147483648000000000000
+      - risk: '665719931'
+        upper_bound: 2469606195200000000000
+      - risk: '738734375'
+        upper_bound: 2791728742400000000000
+      - risk: '816043787'
+        upper_bound: 3113851289600000000000
+      - risk: '889058231'
+        upper_bound: 3435973836800000000000
+      - risk: '966367642'
+        upper_bound: 3758096384000000000000
+      - risk: '1039382086'
+        upper_bound: 4080218931200000000000
+      - risk: '1116691497'
+        upper_bound: 4402341478400000000000
+      - risk: '2147483648'
+        upper_bound: 340282366920938463463374607431768211455
 timestamp_validation_config:
   funding_validity_period: 86400
   price_validity_period: 345600
