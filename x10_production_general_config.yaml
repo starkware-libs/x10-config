@@ -2562,6 +2562,8 @@ synthetic_assets_info:
         upper_bound: 4080218931200000000000
       - risk: '1116691497'
         upper_bound: 4402341478400000000000
+      - risk: '2147483648'
+        upper_bound: 340282366920938463463374607431768211455
   '0x57414c2d3100000000000000000000':    #WAL
     oracle_price_quorum: '0x2'
     oracle_price_signed_asset_ids:
