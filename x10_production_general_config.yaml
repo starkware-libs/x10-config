@@ -3059,6 +3059,23 @@ synthetic_assets_info:
         upper_bound: 9019431321600000000000
       - risk: '2147483648'
         upper_bound: 340282366920938463463374607431768211455
+  '0x5841472d5553442d38000000000000':     #XAG
+    oracle_price_quorum: '0x1'
+    oracle_price_signed_asset_ids:
+    - '0x584147555344000000000000000000005047524d31'
+    - '0x584147555344000000000000000000005047524d32'
+    oracle_price_signers:
+    - '0x782a7e5dcba0d9009f86edf8559ce923ac35a29e571342633b0e504275da7e4'
+    - '0x5b1eef954cc8c901d2088347b65487826ff8f4b67a0cb40c260c95d956b6f15'
+    resolution: '0x64'
+    risk_factor:
+      segments:
+      - risk: '214748365'
+        upper_bound: 1717986918400000000000
+      - risk: '429496730'
+        upper_bound: 3435973836800000000000
+      - risk: '2147483648'
+        upper_bound: 340282366920938463463374607431768211455
 timestamp_validation_config:
   funding_validity_period: 86400
   price_validity_period: 345600
